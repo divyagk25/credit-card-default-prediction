@@ -85,8 +85,8 @@ This project demonstrates that **comparative modeling is essential** in credit r
 ##  Repository Structure
 ```text
 notebooks/   → Jupyter notebook with full analysis  
-reports/     → MSc project report  
-images/      → Visual outputs used in this README  
+reports/     → Project report  
+images/      → Visual outputs 
 
 
 
